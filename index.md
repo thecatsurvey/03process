@@ -3,7 +3,7 @@
 
 #Foundations of Data Analysis 
 
-[Open Data NYC](https://www.youtube.com/watch?v=mkSrTDEsFhA)
+[Open Data 101: Learn to use NYC Open Data! 3/13/2022](https://www.youtube.com/watch?v=mkSrTDEsFhA)
 
 
 
